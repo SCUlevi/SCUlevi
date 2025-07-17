@@ -1,0 +1,8 @@
+openai>=1.0.0
+openai-agents==0.0.7
+playwright>=1.40.0
+rich>=13.0.0
+pydantic>=2.0.0
+asyncio>=3.4.3
+beautifulsoup4>=4.9.0 
+mlflow==2.21.3
